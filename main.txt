@@ -1,0 +1,14 @@
+FastAPI is a modern and performant web framework for building APIs. 
+
+It uses the latest feautures of python such as type hinting, annotations, the asyc - await syntaxt, pydantic models, web sockets support
+ and more 
+
+ There are numerous reasons to use FastAPI
+ some of which are:
+ High performance 
+ data validation and simplicity
+faster developement
+
+standard compliances
+logical app structuring
+
